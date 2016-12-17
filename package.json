@@ -31,7 +31,7 @@
     "url-loader": "0.5.7",
     "webpack": "1.14.0",
     "webpack-entries-plugin": "0.0.3",
-    "winston": "2.2.0"
+    "winston": "2.3.0"
   },
   "devDependencies": {
     "angular": "1.5.8",
