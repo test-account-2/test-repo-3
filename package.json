@@ -21,7 +21,7 @@
     "lodash": "4.16.4",
     "minifyify": "7.3.3",
     "node-sass": "3.10.1",
-    "postcss-loader": "0.13.0",
+    "postcss-loader": "1.2.1",
     "raw-loader": "0.5.1",
     "rucksack-css": "0.8.6",
     "sass-loader": "4.0.2",
