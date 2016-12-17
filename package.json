@@ -61,7 +61,7 @@
     "highlight.js": "9.5.0",
     "imgix.js": "2.2.4",
     "json-stringify-safe": "5.0.1",
-    "keycode": "2.1.2",
+    "keycode": "2.1.8",
     "leaflet": "0.7.7",
     "leaflet-d3-svg-overlay": "2.2.0",
     "leaflet.markercluster": "0.5.0",
