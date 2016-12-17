@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "dependencies": {
+    "jscodeshift": "^0.3.20",
+    "lodash.uniqby": "^4.6.0",
+    "recast": "^0.11.17",
+    "tcomb": "^3.2.15"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "babel-eslint": "^6.0.0",
+    "eslint": "^3.0.0",
+    "got": "^6.6.3",
+    "husky": "^0.11.6"
+  }
+}
