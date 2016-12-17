@@ -54,7 +54,7 @@
     "chartist": "0.10.1",
     "chartist-plugin-tooltips": "0.0.17",
     "d3": "3.5.17",
-    "dragula": "3.7.1",
+    "dragula": "3.7.2",
     "fastclick": "1.0.6",
     "firebase": "3.6.0",
     "headroom.js": "0.9.3",
