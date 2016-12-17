@@ -62,7 +62,7 @@
     "imgix.js": "2.2.4",
     "json-stringify-safe": "5.0.1",
     "keycode": "2.1.2",
-    "leaflet": "0.7.7",
+    "leaflet": "1.0.2",
     "leaflet-d3-svg-overlay": "2.2.0",
     "leaflet.markercluster": "0.5.0",
     "loadjs": "3.1.0",
